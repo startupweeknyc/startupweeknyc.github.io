@@ -359,7 +359,7 @@ $(document).ready(function(){
                                 translateY: (t,i) => [0,anime.random(-40,40)],
                                 rotateZ: (t,i) => [0,anime.random(-20,20)],
                                 opacity: (t,i) => 0.3,
-                            });	
+                            }); 
                         }, 50);
 
                         this.mouseleaveFn = () => {
