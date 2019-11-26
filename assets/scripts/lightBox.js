@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
    
-    "use strict";
+    "use strict"; 
 
 
     lightBoxx('.speaker-grid-1','.speaker-grid-1__item','.speaker-detail');
